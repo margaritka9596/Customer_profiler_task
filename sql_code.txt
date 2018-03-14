@@ -1,0 +1,10 @@
+select TOP (1000)u.Id, Count(c.Id) as NumberOfComments, u.DisplayName, u.Location,
+max(c.CreationDate) as LastCommentDate,
+u.LastAccessDate
+from Users as u
+join Comments as c on c.UserId = u.Id
+join Posts as p on p.Id = c.PostId
+where (DataLength(u.Location) > 0) and (CHARINDEX('<java>', Tags) > 0) --if location exists and if Java tag exists
+and (CHARINDEX('//', u.Location) = 0)									--exluding obvious incorrect location addresses
+group by u.Id, u.DisplayName, u.Location, u.LastAccessDate
+order by LastAccessDate DESC;

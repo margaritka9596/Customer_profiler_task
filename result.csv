@@ -1,0 +1,72 @@
+Country,ISO3 code,Number of users
+United States,USA,422
+India,IND,183
+Canada,CAN,58
+Australia,AUS,37
+Bangladesh,BGD,26
+Sri Lanka,LKA,18
+Germany,DEU,14
+Russia,RUS,13
+Singapore,SGP,12
+China,CHN,12
+Israel,ISR,12
+New Zealand,NZL,12
+United Kingdom,GBR,11
+Nepal,NPL,10
+Indonesia,IDN,10
+Malaysia,MYS,10
+Brazil,BRA,9
+Philippines,PHL,8
+Japan,JPN,8
+Iran,IRN,6
+Pakistan,PAK,6
+Poland,POL,5
+France,FRA,5
+Mexico,MEX,4
+Switzerland,CHE,4
+Thailand,THA,4
+Turkey,TUR,4
+United Arab Emirates,ARE,4
+Unknown,Unknown,4
+South Africa,ZAF,3
+Vietnam,VNM,3
+Belgium,BEL,3
+Greece,GRC,3
+Hong Kong,HKG,3
+Colombia,COL,3
+Panama,PAN,2
+Portugal,PRT,2
+Georgia,GEO,2
+Ukraine,UKR,2
+Sweden,SWE,2
+Taiwan,TWN,2
+Cambodia,KHM,2
+Iraq,IRQ,2
+Slovakia,SVK,2
+Ireland,IRL,2
+Egypt,EGY,2
+Argentina,ARG,2
+Maldives,MDV,2
+South Korea,KOR,2
+Romania,ROU,2
+Kenya,KEN,1
+Bosnia and Herzegovina,BIH,1
+Bahrain,BHR,1
+Armenia,ARM,1
+Uruguay,URY,1
+Uzbekistan,UZB,1
+Cuba,CUB,1
+Saudi Arabia,SAU,1
+Czechia,CZE,1
+Spain,ESP,1
+El Salvador,SLV,1
+Lithuania,LTU,1
+Finland,FIN,1
+Peru,PER,1
+Oman,OMN,1
+Norway,NOR,1
+Nigeria,NGA,1
+Netherlands,NLD,1
+Myanmar (Burma),MMR,1
+Kazakhstan,KAZ,1
+Afghanistan,AFG,1
